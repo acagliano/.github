@@ -16,7 +16,7 @@ jobs:
         with:
           # --- Auth ---
           token: ${{ secrets.METRICS_TOKEN }}
-          user: acagliano97  # replace with your personal GitHub username
+          user: acagliano  # replace with your personal GitHub username
 
           # --- Output ---
           filename: metrics.svg
