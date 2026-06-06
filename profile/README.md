@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/acagliano/acagliano/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/acagliano/.github/main/metrics.svg)
 
 ## Anthony Cagliano
 
